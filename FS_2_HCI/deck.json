@@ -1,0 +1,2180 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "8edadd83-05d3-11ed-8d6f-7085c2d6ea70",
+            "deck_config_uuid": "8edadd84-05d3-11ed-8ec3-7085c2d6ea70",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "01-Introduction",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "01-01: Was ist HCI?",
+                        "Disziplin, die sich mit Design, Bewertung und Implementierung interaktiver Computersysteme für menschlichen Gebrauch beschäftigt."
+                    ],
+                    "guid": "Gt~%Z;f1.y",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "01-02: Was ist das bedeutenste Ziel von HCI?",
+                        "Computerinteraktion einfacher und Information erreichbarer machen."
+                    ],
+                    "guid": "nZcwFK<-aC",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "01-03: Was ist UCD und welche Ziele hat es?",
+                        "User Centered Design:<br><ul><li>Nutzungskontext verstehen</li><li>Requirements (Anforderungen) definieren</li><li>Ideen und Konzepte entwickeln</li><li>Mit Nutzern arbeiten</li><li>Prototypen herstellen und evaluieren</li></ul>Hauptsächlich: Schlechtes Design verstehen und vermeiden, sowie gutes Design definieren und herstellen"
+                    ],
+                    "guid": "J&uqy!NGkt",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "01-04: Wofür ist Usability gut?",
+                        "<ul><li>Nutzerproduktivität erhöhen</li><li>Kosten verringern (durch weniger Support/Training der Nutzer, mehr Effizienz in\nVerwendung)</li><li>Verkäufe steigern: Kundenbindung- und Zufriedenheit erhöhen, neue Kunden gewinnen</li><li>Wettbewerbsfähigkeit steigern: Kunden erwarten hohe Usabilty</li><li>Nutzungsstudien können neue Ideen generieren und Qualität verbessern</li></ul>"
+                    ],
+                    "guid": "p0x#:){8,c",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "01-05:&nbsp;Welche 3 Anforderungen stellt HCI an ein System?",
+                        "<ol><li>Usable (Usability)</li><li>Useful (UCD)</li><li>Nice to use (User Experience)</li></ol>"
+                    ],
+                    "guid": "r`Hj.nh0{q",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "01-06:&nbsp;Was sind Human Factors?",
+                        "Soziale und kulturelle Herkunft, sowie kognitive, emotionale und physiche Fähigkeiten."
+                    ],
+                    "guid": "I9xJN4-BhL",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "01-07:&nbsp;Was sind die 4 Grundaufgaben des UCD-Prozesses?",
+                        "<ol><li>Requirements Engineering</li><li>Alternative Desings entwickeln</li><li>Interaktive Designs bauen<br></li><li>Designs evaluieren und zwischen Alternativen wählen</li></ol>"
+                    ],
+                    "guid": "g:5@*O9ai<",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "01-08:&nbsp;Was sind 3 Key Characteristics im UCD?",
+                        "<ol><li>Früh auf Nutzer fokussieren und empirisch in Entwicklung einbeziehen</li><li>Usability und UX Ziele identifizieren, dokumentieren und festlegen</li><li>Gelöste Probleme beheben und iterativ neu überprüfen</li></ol>"
+                    ],
+                    "guid": "wS3Ux^jHU8",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "01-09:&nbsp;Von welchen 3 Gedächtnisarten spricht man beim Menschen?",
+                        "<ol><li>Sensorisches Gedächtnis als short term buffer für die Sinne</li><li>Arbeitsgedächtnis mit schnellem Zugriff, aber auch kurzem Erinnerungsvermögen</li><li>Langzeitgedächtnis: langsamer Zugriff, selektiv, langsames Vergessen</li><ul><li>schnelles Widererkennen</li><li>aber langsames Abrufen aus eigener Intention</li></ul></ol>"
+                    ],
+                    "guid": "w=E?OqBd}2",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "01-10:&nbsp;Wie passieren Fehler beim Bedienen eines Systems?",
+                        "Slips: richtige Intention, aber Fehler bei Ausf¨uhrung (fehlende Aufmerksamkeit,\nphysische Leistung)<br>Mistake: falsche Intention aufgrund falschen Verstehens (mentales Modell passt nicht\nzu tats¨achlichem System)"
+                    ],
+                    "guid": "cOLk^FQQp6",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "01-11:&nbsp;Nach welchen Kriterien reagiert der Mensch auf Stimulation?",
+                        "Antwort auf Stimulus: Reaktionszeit + Bewegungszeit<br><br>Abhängig von Alter, Fitness und Typ von Stimulus (auditiv &gt; visuell &gt; Schmerz)"
+                    ],
+                    "guid": "x=6luI3bxN",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "01-12:&nbsp;Was sind die 6 Design Principles und was bedeuten sie?",
+                        "<ol><li>Visibility: Mach Bedinung sichtbar, kein Rätselraten!</li><li>Feedback: Stelle Feedback bereit über Ton/Sichtbares</li><li>Consistency: Beachte Transfer Effects (Erfahrungen mit ähnlichen Objekten werden auf\nneue übertragen)<br>Gleiche Aufgabe führt zu gleicher Form der Interaktion, leicher erlernbar</li><li>Constraints: Einschränkung der möglichen Interaktionen, um falsche Aktionen zu verhindern und doppeldeutiges Design zu verhindern</li><li>Mappings: Klares Mapping (Visuelle Hinweise und Funktionalitäat &gt; Eleganz) Abbildung\nder Funktion eines Objekts</li><li>Affordances: Möglichkeiten des Nutzers mit dem Objekt zu interagieren</li></ol>"
+                    ],
+                    "guid": "J.(nSxOs]s",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "01-13: Was passiert bei der Wahrnehmung eines Stimulus im Körper?",
+                        "<ol><li>Input über Sinne</li><li>Memory(Gedächtnis)</li><li>Verarbeitung: Problemlösen, Gefühle, Motivation, Fehler<br></li><li>Output über Muskelbewegung</li></ol>"
+                    ],
+                    "guid": "C+RxOK&w3_",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "8edb2bab-05d3-11ed-9fa8-7085c2d6ea70",
+            "deck_config_uuid": "8edb2bac-05d3-11ed-8aca-7085c2d6ea70",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "02-Requirements Analysis",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "02-01:&nbsp;Was ist Requirements Analysis?",
+                        "Analyse der Anforderungen, die von den Beteiligten Parteien an das System gestellt werden."
+                    ],
+                    "guid": "G:g7Q4_uKy",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "02-02: Wofür macht man eine Requirements Analysis?",
+                        "<ul><li>Besseres Verständnis für die Wünsche und Bedürfnisse der Stakeholder</li><li>Frühes Beheben von Fehlern sehr viel billiger</li><li>Man kann das nich nicht erstellte Design an Bedienung und Bedürfnisse anpassen</li></ul>"
+                    ],
+                    "guid": "qp~g8^dF}}",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "02-03: Was sind die 4 Ziele der Requirements Analysis?",
+                        "Zweck, Kontext, Rolle und Wichtigkeit des Systems herausfinden"
+                    ],
+                    "guid": "cLSb%pyad|",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "02-04: Was sind Stakeholder und was ist dabei wichtig für eine Requirements Analysis?",
+                        "Stakeholder: Parteien, die in irgendeiner Form mit dem System zu tun haben<br><br>Wer ist warum und auf welche Weise involviert? Welche Verhältnisse bestehen? Wer sind Nutzer und wozu benutzen sie das System in welchen Rollen?"
+                    ],
+                    "guid": "yJLGaLjx<H",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "02-05: Was sind funktionale Anforderungen?",
+                        "Legt fest, was ein Produkt tun soll."
+                    ],
+                    "guid": "C<n#1)?$xp",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "02-06: Was sind nicht-funktionale Anforderungen?",
+                        "Wie soll ein Produkt etwas tun?<br><br>Hilfreich:&nbsp;In welchen Schranken wird gearbeitet, z.B. Entwicklungszeit,\nSicherheit, Geschwindigkeit)"
+                    ],
+                    "guid": "fc_C_D(M*v",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "02-07: Was sind Data Requirements?",
+                        "Welche Daten werden in welcher Menge und Qualität wie gespeichert?"
+                    ],
+                    "guid": "cUI<*K21q9",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "02-08: Nenne Beispiele für Umgebungsanforderungen / Context of Use",
+                        "<ul><li>Physikalisch: Ort, Wetter, Licht</li><li>Sozial: teilen von Displays, über große Entfernung, individuell oder gemeinsame\nArbeit, Privatsphäre<br></li><li>Organisatorisch: Hierarchien, user support für Technologien, Kommunikationsstruktur/infrastruktur, Einstellung der IT Abteiltung<br></li></ul>"
+                    ],
+                    "guid": "K`xg+zgi81",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "02-09: Was sind User Requirements?",
+                        "<ul><li>Eigenschaften: Wissen, Hintergrund und Umstände, Einstellung zu Technologie,\nPersönlichkeit<br></li><li>Fähigkeiten: physisch, Behinderungen, Größe, Stärke, Alter<br></li><li>Systemnutzung: novice, expert, casual, frequent<br></li></ul>"
+                    ],
+                    "guid": "tEV$6B2ZhN",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "02-10: Welche 4 Arten von Stakeholdern gibt es?",
+                        "<ol><li>primär: nutzen System (airline booking staff)</li><li>sekundär: arbeiten mit Output / liefern Input (airline management)</li><li>tertiär: beeinflusst von Erfolg/Misserfolg (competitors, authorities, shareholders)</li><li>faciliating: in Entwicklung involviert (Designer/Entwickler)</li></ol>"
+                    ],
+                    "guid": "Fv-Top0:xC",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "02-11: Was sind user profiles eines Produkts/einer Dienstleistung?",
+                        "Tabelle mit potenziellen Nutzergruppen und deren jeweiligen Eigenschaften"
+                    ],
+                    "guid": "vFlL5Z~,@2",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "02-12: Was sind Personas?",
+                        "Fiktionale Nutzerbeschreibung für wichtigste Nutzergruppen --&gt; Archetypen basierend auf echten Nutzern (finde Muster in Interviews, Beobachtung)"
+                    ],
+                    "guid": "FHBE]Xw`t<",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "02-13: Was sind Archetypen?",
+                        "Universale Urbilder oder Urfiguren, die mit bestimmten Emotionen, Eigenschaften und Zielen verbunden werden."
+                    ],
+                    "guid": "N@A`]=P`J8",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "02-14: Welche 6 Methoden der Datensammlung haben wir gelernt?",
+                        "<ol><li>Questionaires (Fragebogen)</li><li>Interviews</li><li>Focus Group (Gruppeninterview)<br></li><li>Observation (Beobachtung)<br></li><li>Data recording<br></li><li>Analyse existierender Systeme<br></li></ol>"
+                    ],
+                    "guid": "d8R#*-q&Hj",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "02-15: Wie geht man bei einer Requirement Analysis vor?",
+                        "<ol><li>Ziele identifizieren</li><li>Stakeholder identifizieren</li><li>Effekt von Veränderungen identifizieren<br></li><li>System-Requirements identifizieren</li><li>Context of Use identifizieren</li><li>User Requirements identifizieren</li><li>Usability Requirements identifizieren</li></ol>"
+                    ],
+                    "guid": "q$CL6U^bF&",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "02-16: Was sind Vor- und Nachteile eines Fragebogens?",
+                        "<ul><li>Pro: große Zielgruppe erreichbar, viele Wege der Verteilung, quantitative und qualitative Daten können gesammelt werden (offene/geschlossene Fragen), online: schnell\nund digital, weniger sozialer Druck</li></ul><ul><li>Con: Sampling ist schwierig: Wer sind die Befragten, wie groß ist die Population?,\nonline: mehrfache Antworten verhindern nicht immer einfach</li><li>Gutes Design der Fragen und Anweisungen notwendig;</li><li>Detail/Länge müssen ausgeglichen sein</li></ul>"
+                    ],
+                    "guid": "Bs8JJ#G?Ql",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "02-17: Was zeichnet ein Interview aus,wie läuft es in der Regel ab und was gilt es zu beachten?",
+                        "<ul><li>unstrukturiert / unstrukturiert, offene / geschlossene Fragen<br></li><li>Ablauf: Begrüßung, Information über Ziel, consent form, Lockerungsfragen, logische\nOrdnung der Hauptfragen, Möglichkeit selbst fragen zu stellen, Verabschiedung<br></li><li>Vermeiden: zu lange, komplexe, unsachliche Fragen, die ”richtige” Antwort implizieren<br></li></ul>"
+                    ],
+                    "guid": "nKA)fh|uRL",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "02-18: Was muss man bei der Datensammlung besonders beachten?",
+                        "<ul><li>Wahl der Techniken ist abhängig von Fokus der Studie, Teilnehmern, Ressourcen und\nZeit.<br></li><li>Pilot-Studie durchführen, mehrere Methoden kombinieren, Aufzeichnung der Daten mit\nVorsicht vornehmen<br></li><li>Stakeholder-Gruppen und ihre Bedürfnisse identifizien und jeweils mehrere Personen involvieren über workshops, interviews, workplace studies<br></li><li>Echte Nutzer, nicht Manager einbinden<br></li><li>Kommunikation innerhalb des Entwicklerteams, zu Kunden, und innerhalb der Nutzergruppe muss klappen: Wissen ist verteilt und schwierig, explizit zu\nbeschreiben<br></li><li>Informed Consent muss bei Nutzerstudie vorliegen: welche Daten werden gesammelt, was\nwird warum untersucht; Persönlichkeitsrechte müssen geachtet werden, Daten anonymisieren<br></li></ul>"
+                    ],
+                    "guid": "vTbal)FfH`",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "02-19: Was versteht man unter einer quantitativen Analyse?",
+                        "Methoden, um Größen/Mengen zu ermitteln, die in Zahlen ausgedrückt werden können (quantitative data)"
+                    ],
+                    "guid": "tW2?DYW=v<",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "02-20: Was sind qualitative Daten?",
+                        "Schwer in Zahlen fassbare Daten. Man versucht diese dann nach Kategorien bzw. in sich wiederholenden Mustern zu sortieren und auszuwerten."
+                    ],
+                    "guid": "zZVo^E<w=9",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "02-21: Was ist eine qualitative Analyse?",
+                        "Das Ausdrücken von Eigenschaften mit Mustern, Geschichten und Schemata"
+                    ],
+                    "guid": "f.Mli]jvdI",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "02-22: Nach welchen 4 Kriterien entscheidet man, wie man Ergebnisse präsentiert?",
+                        "Publikum, Zweck, Methode und Analysetechnik"
+                    ],
+                    "guid": "ok+8RC&yJj",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "8edba0e7-05d3-11ed-b7d4-7085c2d6ea70",
+            "deck_config_uuid": "8edbc7eb-05d3-11ed-aeff-7085c2d6ea70",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "03-Cognitive Principles",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "03-01: Was sind kognitive Prinzipien?",
+                        "Kognitive Prinzipien sind Designrichtlinien, die zu besserer, leichterer und intuitiverer Bedienung und auch dem damit verbundenen Verständnis führen.&nbsp;"
+                    ],
+                    "guid": "u8>Qr{:3V*",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "03-02:&nbsp;Welche 7 Kognitiven Prinzipien wurden in der Vorlesung vorgestellt?",
+                        "<ol><li>Aufmerksamkeit<br></li><li>Wahrnehmung<br></li><li>Gedächtnis<br></li><li>Lernen<br></li><li>Sinneswahrnehmungen<br></li><li>Nutzer aktiv werden lassen<br></li><li>Mentale Modelle<br></li></ol>"
+                    ],
+                    "guid": "g+{C.?5@^&",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "03-03:&nbsp;Was sag das Kognitive Prinzip \"Aufmerksamkeit\" aus?",
+                        "<ul><li>Für user wichtige Informationen hervorheben</li><li>Techniken:&nbsp;Farbe, Sortierungen, Unterstreichungen, Töne, blinkende Lichter...</li><li>nicht zu viele Informationen</li><li>Einfache, klare Interfaces</li></ul>"
+                    ],
+                    "guid": "t4Y%tsUneg",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "03-04:&nbsp;Was sag das Kognitive Prinzip \"Wahrnehmung\" aus?",
+                        "<ul><li>Text sollte lesbar und unterscheidbar vom Hintergrund sein</li><li>Icons sollten einfach zu erkennen und zu lesen sein und die Bedeutung vermitteln<br></li><li>Abgrenzungen und Zwischenräume sind effektiv zur Gruppierung<br></li><li>Töne sollten hörbar und unterscheidbar sein<br></li></ul>"
+                    ],
+                    "guid": "Cz;Us.|@[w",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "03-05:&nbsp;Was sag das Kognitive Prinzip \"Gedächtnis\" aus?",
+                        "<ul><li>verstehen ist einfacher als abrufen von Information<br></li><li>Menschen sind gut im Erinnern an visuelle Hinweise<br></li><li>Präsentiere nur 7 Optionen in einem Menü bzw. Präsentiere nur 7 Icons\nin einer Werkzeugleiste<br></li><li>Wiedererkennung bei Interface ermöglichen<br></li><li>Information auf unterschiedliche Weise entschlüsselbar machen<br></li><li>\"cognitive prosthetic devices\" : Verlassen auf technische Hilfsmittel, Internet, ... --&gt; extended Mind<br></li></ul>"
+                    ],
+                    "guid": "rK:Lhj+(}N",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "03-06:&nbsp;Was sag das Kognitive Prinzip \"Lernen\" aus?",
+                        "<ul><li>learning by doing geht über Anweisungen<br></li><li>Design implications: interfaces sollten Ausprobieren ermutigen, den Lernenden leiten<br></li></ul>"
+                    ],
+                    "guid": "Ph]R%|HXyS",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "03-07:&nbsp;Was sag das Kognitive Prinzip \"Sinneswahrnehmungen\" aus?",
+                        "<ul><li>Wie gut Leute lesen, sprechen, hören unterscheidet sich<br></li><li>Lesen kann schneller sein als hören ABER zuhören ist kognitiv einfacher, wird von\nmanchen vorgezogen</li></ul>"
+                    ],
+                    "guid": "i.8#RWOs`$",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "03-08:&nbsp;Was sag das Kognitive Prinzip \"Nutzer aktiv werden lassen\" aus?",
+                        "<ul><li>Problemlösung, Planen, Argumentieren, Entscheiden<br></li><li>Nutzer soll&nbsp;Optionen bzw. Konsequenzen abwägen, bewusste Prozesse wie Diskussionen oder Hilfsmittel\nsind eingeschlossen</li><li>Design implications: zusätzliche Information für Nutzer bereitstellen, die effektiver\nsein wollen (shortcuts)<br></li></ul>"
+                    ],
+                    "guid": "mEE_#4Iv?$",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "03-09:&nbsp;Was sag das Kognitive Prinzip \"Mentale Modelle\" aus?",
+                        "<ul><li>Nutzer entwickeln durch Benutzen und Lernen eines Systems ein bestimmtes Verständnis davon<br></li><li>Wissen wird als mentales Modell beschrieben, welches verwendet wird, um Aufgaben zu bewältigen. Diese Modelle können aber falsch sein und zu Fehlern führen, z.B. durch falsche Annahmen, mangelndes Verständnis, unpassende Analogien und Aberglaube</li></ul>"
+                    ],
+                    "guid": "mdBPjEp;rH",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "03-10:&nbsp;Was ist und wie funktioniert das Kognitionsmodell Informationsverarbeitung (human processor model)?",
+                        "Voraussage von kognitiven Prozessen in Interaktion mit\nComputer. <br>Problem: nur mentale Prozesse werden einbezogen<br><br>Funktionsweise: Detailliertes modellieren der einzelnen Verarbeitungs- und Wahrnehmunsschritte. Anschließendes abschätzen der benötigten Zeit."
+                    ],
+                    "guid": "hBcWpW!_UM",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "03-11:&nbsp;Was ist und wie funktioniert das kognitionsmodell Verteilte Kognition (parallel design)?",
+                        "Verteilte kognition bezieht alle Bestandteile eines Wahrnehmungs- und Aktionsprozesses mit ein:<br><ul><li>verteilte Problemlösung<br></li><li>verbales, non-verbales Verhalten<br></li><li>Teilen von und Zugriff auf Wissen<br></li><li>Koodinierungmechanismen: Regeln, Prozeduren<br></li><li>Externe Artefakte: Kalender, Post-It, Listen ...<br></li></ul>"
+                    ],
+                    "guid": "bY>@Tu)cVK",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "8edbef06-05d3-11ed-997d-7085c2d6ea70",
+            "deck_config_uuid": "8edbef07-05d3-11ed-a5d0-7085c2d6ea70",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "04-Usability Principles",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "04-01:&nbsp;Was ist das Ausführungsdefizit(gulf of execution)?",
+                        "Die Lücke zwischen den Zielen des Nutzers und der physikalischen \nAusführung, die zur Erreichung des Ziels tatsächlich nötig sind."
+                    ],
+                    "guid": "j6hJ.N&N_p",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "04-02: Was ist das Auswertungsdefizit(gulf of evaluation)?",
+                        "Das Auswertungsdefizit gibt an, wie schwer ein System und dessen Zustand zu beschreiben ist.<br><br>Donald Norman: \"Diese Kluft ist klein, wenn das Gerät leicht zu verstehende \nund zu interpretierende Informationen darüber bietet, in welchem Zustand\n es sich befindet und ob dieser Zustand damit übereinstimmt, wie die \nPerson über das System denkt.\""
+                    ],
+                    "guid": "r43L8/Ar^x",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "04-03: Welche 4 Arten von Designregeln haben wir in der Vorlesung besprochen und was zeichnet sie aus?",
+                        "<ol><li>Prinzipen: generell/abstrakter<br></li><li>Goldene Regeln und Heuristiken: konkreter und spezifischer<br></li><li>Standards: detailierte Regeln<br></li><li>Style guides: konkrete Vorgaben über z.B. Design eines bestimmten Buttons etc.<br></li></ol>"
+                    ],
+                    "guid": "Y62EeqGN<",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "04-04: Was beschreibt die ISO Norm zu Usability?",
+                        "Ausmaß, in dem bestimmte Nutzer in einem Kontext ihre Ziele effektiv, effizient und befriedigend ausführen können."
+                    ],
+                    "guid": "w{,7SLLN2k",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "04-05: Wofür stehen die Begriffe effektiv, effizient und befriedigend im Kontext der ISO Norm zu Usabiliy?",
+                        "effektiv: kann Ziel erreicht werden?,<br>effizient: Aufwand, um Ziel zu erreichen,<br>befriedigend: subjektiver Eindruck des Nutzers"
+                    ],
+                    "guid": "+JO;,*6F_",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "04-06: Was sind die 7 Grundsätze der Dialoggestaltung aus der ISO-Norm zu Usability?",
+                        "<div>1. Aufgabenangemessenheit</div><div>2. Selbstbeschreibungsfähigkeit</div><div>3. Steuerbarkeit</div><div>4. Erwartungskonformität</div><div>5. Fehlertoleranz</div><div>6. Individualisierbarkeit</div><div>7. Lernförderlichkeit</div>"
+                    ],
+                    "guid": "q!1dlGUx_7",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "04-07: Wann ist ein Dialog \"aufgabenangemessen\" im Sinne der Grundsätze der Dialoggestaltung aus der ISO-Norm zu Usability?",
+                        "<div>Ein Dialog ist aufgabenangemessen, wenn er den Benutzer darin unterstützt, seine Arbeitsaufgbe effektiv und effizient zu erledigen.</div>"
+                    ],
+                    "guid": "gqo9::%Q-=",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "04-08: Wann ist ein Dialog \"selbstbeschreibungsfähig\" im Sinne der Grundsätze der Dialoggestaltung aus der ISO-Norm zu Usability?",
+                        "<div>Ein Dialog ist selbstbeschreibungsfähig, wenn jeder einzelne Dialogschritt durch Rückmeldung des Dialogsystems unmittelbar verständlich ist oder dem Benutzer auf Anfrage erklärt wird.</div>"
+                    ],
+                    "guid": "c,&uYY1=O{",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "04-09: Wann ist ein Dialog \"steuerbar\" im Sinne der Grundsätze der Dialoggestaltung aus der ISO-Norm zu Usability?",
+                        "<div>Ein Dialog ist steuerbar, wenn der Benutzer in der Lage ist, den Dialogablauf zu starten sowie seine Richtung und Geschwindigkeit zu beeinflussen, bis das Ziel erreicht ist.</div>"
+                    ],
+                    "guid": "lB<jkFm%mp",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "04-10: Wann ist ein Dialog \"erwartungskonform\" im Sinne der Grundsätze der Dialoggestaltung aus der ISO-Norm zu Usability?",
+                        "<div>Ein Dialog ist erwartungskonform, wenn er konsistent ist und den Merkmalen des Benutzers entspricht, z.B. seinen Kenntnissen aus dem Arbeitsgebiet, seiner Ausbildung und seiner Erfahrung sowie den allgemein anerkannten Konventionen.</div>"
+                    ],
+                    "guid": "n$6oEnJLNw",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "04-11: Wann ist ein Dialog \"fehlertolerant\" im Sinne der Grundsätze der Dialoggestaltung aus der ISO-Norm zu Usability?",
+                        "<div>Ein Dialog ist fehlertolerant, wenn das beabsichtigte Arbeitsergebnis trotz erkennbar fehlerhafter Eingaben entweder mit keinem oder mit minimalem Korrekturaufwand seitens des Benutzers erreicht werden kann.</div>"
+                    ],
+                    "guid": "m7D*QdG|Qg",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "04-12: Wann ist ein Dialog \"individualisierbar\" im Sinne der Grundsätze der Dialoggestaltung aus der ISO-Norm zu Usability?",
+                        "<div>Ein Dialog ist individualisierbar, wenn das Dialogsystem Anpassungen an die Erfordernisse der Arbeitsaufgabe sowie an die individuellen Fähigkeiten und Vorlieben des Benutzers zuläßt.</div>"
+                    ],
+                    "guid": "n%c}4NfPa2",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "04-13: Wann ist ein Dialog \"lernförderlich\" im Sinne der Grundsätze der Dialoggestaltung aus der ISO-Norm zu Usability?",
+                        "<div>Ein Dialog ist lernförderlich, wenn er den Benutzer beim Erlernen des Dialogsystems unterstützt und anleitet.</div>"
+                    ],
+                    "guid": "yL$}c_]gOT",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "04-14: Was sind die 8 goldenen Regeln nach&nbsp;Ben Shneiderman?",
+                        "<ol><li>Konsistenz anstreben</li><li>Informatives Feedback</li><li>Abgeschlossenheit</li><li>Fehler vermeiden</li><li>Umkehrbarkeit</li><li>Benutzerkontrolle gewährleisten</li><li>Kurzzeitgedächnis entlasten</li><li>Universelle Benutzbarkeit</li></ol>"
+                    ],
+                    "guid": "kY}q)k7s@3",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "04-15: Was besagt die Regel \"Konsistenz anstreben\" der 8 goldenen Regeln nach Ben Shneiderman?",
+                        "Über das gesamte UX Design sollen verwandte Elemente im Bezug auf Verhalten, Form und Inhalt Konsistenz anstreben."
+                    ],
+                    "guid": "N!LI_)75V%",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "04-16: Was besagt die Regel \"Informatives Feedback\" der 8 goldenen Regeln nach Ben Shneiderman?",
+                        "Für jede Aktion sollte das System ein relevantes Feedback geben. Dies \nist für den User wichtig, ob seine getätigte Aktion auch das gewünschte \nErgebnis erbracht hat."
+                    ],
+                    "guid": "kpBv4_kD)>",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "04-17: Was besagt die Regel \"Abgeschlossenheit\" der 8 goldenen Regeln nach Ben Shneiderman?",
+                        "Ein Prozess hat einen Anfang, eine Mitte und ein Ende. Der Nutzer soll \njederzeit den Überblick haben, in welchem Status er sich aktuell \nbefindet. Bei dem Abschluss eines Prozesses soll dem Benutzer dies \nmittgeteilt werden und ihn über weitere Optionen informieren."
+                    ],
+                    "guid": "UOzS25j;_",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "04-18: Was besagt die Regel \"Fehler vermeiden\" der 8 goldenen Regeln nach Ben Shneiderman?",
+                        "Ein gutes UX Design soll so konzipiert sein, dass Fehler bestmöglich \nvermieden werden. Falls trotzdem Fehler passieren sollen diese vom \nProgramm erkannt werden und dem Benutzer bei der Korrektur unterstützen.\n Zu den einfachen Methoden der Problembehebung zählt das Anzeigen des \nFehlers und die Beschreibung zur Behebung des Fehlers."
+                    ],
+                    "guid": "tUGPnZwtGo",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "04-19: Was besagt die Regel \"Umkehrbarkeit\" der 8 goldenen Regeln nach Ben Shneiderman?",
+                        "jede Aktion soll rückgängig gemacht werden können. Das&nbsp;ist eine Erleichterung und nimmt dem Benutzer die Angst etwas falsches zu klicken."
+                    ],
+                    "guid": "f!Iuw};so$",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "04-20: Was besagt die Regel \"Benutzerkontrolle gewährleisten\" der 8 goldenen Regeln nach Ben Shneiderman?",
+                        "Alle Aktionen soll der Benutzer selber auslösen können. Dies ist wichtig\n damit er die Kontrolle und die Freiheit über das System hat."
+                    ],
+                    "guid": "bfy%e_NZoR",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "04-21: Was besagt die Regel \"Kurzzeitgedächtnis entlasten\" der 8 goldenen Regeln nach Ben Shneiderman?",
+                        "Da unsere Aufmerksamkeitsspanne begrenzt ist sollen nur die nötigen Elemente und Informationen aufgezeigt werden."
+                    ],
+                    "guid": "i>nN}6DnwB",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "04-22: Was besagt die Regel \"Universelle Benutzbarkeit\" der 8 goldenen Regeln nach Ben Shneiderman?",
+                        "Anfänger sowie auch Profis sollen das UX Design anwenden können. Für \nerfahrene Benutzer soll die Möglichkeit bestehen Abkürzungen verwenden \nzu können."
+                    ],
+                    "guid": "gPcB*xcYDQ",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "8edc6444-05d3-11ed-815d-7085c2d6ea70",
+            "deck_config_uuid": "8edc8b40-05d3-11ed-8bfc-7085c2d6ea70",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "05-User Experience",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "05-01: Was ist UX-Design?",
+                        "UX-Design ist eine Methide, um dem Nutzer eine möglichst gute Erfahrung beim benutzen des Produkts zu geben."
+                    ],
+                    "guid": "OnB#P//[.#",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "05-02:&nbsp;Ist ein \"Continuum of Interactivity\" sehr ausgeprägt, so steigt die Interaktivität des Systems. Ist es weniger stark ausgeprägt, bleibt die Interkation eher passiv. Welche 4 Arten der \"Continuum of Interactivity\" gibt es?",
+                        "<ol><li>Feedback Control</li><li>Creativity/Productivity:&nbsp;Kreativ und Produktiv zu sein, erfordert Partizipation und Engagement, und ist interessant, unterhaltsam und befriedigend</li><li>Adaptivity:&nbsp;System passt sich implizit an Nutzer an, wie ein Mensch es auch tun würde</li><li>Communication:&nbsp;Unterhaltungen, Storytelling, Meinungen austauschen sind sehr wertvoll und interessant wie z.B. in Foren oder Chats</li></ol>"
+                    ],
+                    "guid": "jO(Ao`hxIj",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "05-03:&nbsp;Was sind Use Qualities?",
+                        "Use Qualities sind Eigenschaften, die ein System haben kann, um die Nutzungserfahrung der User zu gestalten."
+                    ],
+                    "guid": "BDfI/*3^?L",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "05-04:&nbsp;Welche 5 Use Qualities haben wir in der Vorlesung besprochen?",
+                        "<ol><li>Motivation<br></li><li>Interaktion, Handeln, Wahrnehmung<br></li><li>Soziales Level<br></li><li>Strukturell<br></li><li>Distanz zwischen Nutzer und System<br></li></ol>"
+                    ],
+                    "guid": "tcHc>ve^>a",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "05-05:&nbsp;Was sagt die Use Quality \"Motivation\" aus?",
+                        "<ul><li>Playability<br></li><li>Verführung: Verlockung - Verbindung aufbauen, Belohnung - Erfüllung (positives Ende)<br></li><li>Tätigkeit muss Relevanz/Nutzen haben<br></li></ul>"
+                    ],
+                    "guid": "m2*YM(!e`9",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "05-06:&nbsp;Was sagt die Use Quality \"Interaktion, Handeln, Wahrnehmung\" aus?",
+                        "<ul><li>Weiche Ubergänge<br></li><li>Autonomie des Nutzers<br></li><li>Flexibilität, Responsivität<br></li><li>Immersion<br></li></ul>"
+                    ],
+                    "guid": "ln}!S!mb#%",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "05-07:&nbsp;Was sagt die Use Quality \"Soziales Level\" aus?",
+                        "<ul><li>Identität - Symbolische Nutzungsqualität, Kommunikation nach außen<br></li><li>Empowerment - Handlungsrahmen erweitern<br></li><li>Flexibilität - Wachstum und Adaption<br></li></ul>"
+                    ],
+                    "guid": "H[wmh$s$)I",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "05-08:&nbsp;Was sagt die Use Quality \"Strukturell\" aus?",
+                        "<ul><li>Effizienz, Transparenz<br></li><li>Eleganz und Mächtigkeit<br></li><li>Funktionaler Minimalismus, nicht zu viele Features<br></li></ul>"
+                    ],
+                    "guid": "qH#])/MnBD",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "05-09:&nbsp;Was sagt die Use Quality \"Distanz zwischen Nutzer und System\" aus?",
+                        "<ul><li>Überraschungeffekt vermeiden: Erwartungen nicht verletzen</li></ul>"
+                    ],
+                    "guid": "M~S]#-D4B{",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "05-10:&nbsp;Was sind Hedonistische und was Pragmatische Qualitäten?",
+                        "Pragmatisch:&nbsp;Nutzen und Usability<br><br>Hedonistisch: auch Joy of Use;&nbsp;Stimulation durch Produkt, Asthetik, Identitätsschaffend --&gt; abhängig vom Ziel (High-Heels sollen gut aussehen und nicht bequem sein)"
+                    ],
+                    "guid": "G!:bnW7MR:",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "8edcb25b-05d3-11ed-a0d2-7085c2d6ea70",
+            "deck_config_uuid": "8edcb25c-05d3-11ed-b070-7085c2d6ea70",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "06-Conceptual Models and Interaction Styles",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "06-01:&nbsp;Was ist ein Conceptual Model?",
+                        "high-level Beschreibung dessen, wie ein System organisiert ist und operiert. <br><br>Enthält: Metaphern/Analogien, Konzepte im System und deren Relationen (Objekte, deren Eigenschaften,\nOperationen)<br><br>Dieses Modell benötigt ein Verständnis des Problems: Was setzt man voraus,\nwird das System erreichen, was man hofft, wie wird das System Aufgaben unterstützen, wie\nkönnte die Interaktion funktionieren?"
+                    ],
+                    "guid": "MQ4&]X.rs_",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "06-02: Interface wird meist so designt, dass es einer realen Sache ähnelt, die die Nutzer schon kennen, aber dennoch eigene Eigenschaften mit sich bringt. Was sind Vor- und Nachteile dieser Design-Entscheidung?",
+                        "Pro:&nbsp;leichter zu erlernen, vermittelt zugrundeliegendes Konzept<br><br>Con: kann Designer in Möglichekeiten/Vorstellungskraft und Nutzer in Verständnis einschränken oder Design-Prinzipien verletzen"
+                    ],
+                    "guid": "r!A:P}R7vY",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "06-03: Welche 5 Arten von Interkationen unterscheidet man?",
+                        "<ol><li>Anweisungen<br></li><li>Unterhaltung</li><li>Manipulation<br></li><li>Entdecken<br></li><li>Proactive Computing<br></li></ol>"
+                    ],
+                    "guid": "M]wG>InHU0",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "06-04: Was macht die Interaktionsart \"Anweisungen\" aus?",
+                        "System sagt Nutzer, was er tun soll, effizient und schnell, für repetitive\nAufgaben"
+                    ],
+                    "guid": "wU]QIOiU)1",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "06-05: Nenne Beispiele für die Interaktionsart \"Unterhaltung\"?",
+                        "z.B. Suchassistent, Sprachassistenten, Hilfe, Spielzeuge"
+                    ],
+                    "guid": "B7~%YU[xCh",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "06-06: Was zeichnet die Interaktionsart \"Manipulation\" aus?",
+                        "Ziehen, Auswählen, Öffnen, Schließen, Zoomen von virtuellen Objekten,<br>Überträgt Wissen über Manipulation in realer Welt auf virtuelle Welt"
+                    ],
+                    "guid": "o)huy}}*On",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "06-07: Was zeichnet die Interaktionsart \"Entdecken\" aus?",
+                        "Nutzer bewegt sich durch virtuellen Raum, browsing"
+                    ],
+                    "guid": "D(4%~d)qU`",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "06-08: Was zeichnet die Interaktionsart \"Proactive Computing\" aus?",
+                        "Computer schätzt Nutzerbedürfnisse und passt Verhalten an, z.B.\nAI, aber auch automatische Tür"
+                    ],
+                    "guid": "t=Uf[oy~F-",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "06-09: Was ist der Unterschied zwischen Interface und Interaction?",
+                        "Interaction:&nbsp;Was macht der Nutzer bei der Benutzung des Systems? Anweisen, Sprechen,\nBrowsen...<br><br>Interface: Welches Interface ermöglicht diese? Spracheingabe, Touch, Gesten..."
+                    ],
+                    "guid": "k`temE!#Wk",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "8edd0077-05d3-11ed-995c-7085c2d6ea70",
+            "deck_config_uuid": "8edd0078-05d3-11ed-90ca-7085c2d6ea70",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "07-Early Design",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "07-01: Warum sollte man SKizzen und Prototypen erstellen?",
+                        "<ul><li>geht schnell und kostet nicht viel<br></li><li>Probleme werden erkannt bevor Energie ins coden gesteckt wird<br></li><li>mit Skizzen und Prototypen kann man ein deutlich schärferes, besseres Feedback erhalten\nals ohne<br></li><li>hilft beim kreativen Denkprozess<br></li><li>Ist gut für die Teamarbeit und die Kommunikation in der Gruppe, Stakeholder können\nProdukt sehen, fühlen, interagieren<br></li><li>Minimieren der Zeit für Design Iterationen (z.B. durch Paperprototypes) sorgt dafür, das\nFehler schneller gemacht werden. Das sorgt wiederum für besseren Fortschritt, viele Ideen\nkönnen ausgetestet werden<br></li></ul>"
+                    ],
+                    "guid": "w$(mm^Hicq",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "07-02:&nbsp;Welche 4 Use Case orientierten Prototypes gibt es?",
+                        "<ol><li>Personas<br></li><li>Szenarios: Sind konkrete Geschichten für den Designprozess, sie sollen dafür sorgen\ndass das Team/sowie der Kunde sich besser in den User hinein versetzen können.\nAuch negative Scenarien sind wichtig!<br></li><li>Interface storyboards<br></li><li>Video Prototype: nicht interaktiv aber realistischer<br></li></ol>"
+                    ],
+                    "guid": "DhlGoB#aY_",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "07-03:&nbsp;Welche 4 Interface/system design orientierten Prototypen gibt es?",
+                        "<ol><li>Interface-Skizzen</li><li>Paper Prototyping<br></li><li>Mock-Ups(Attrappe/Modell)<br></li><li>\"Wizard of Oz\"-Experiment: Nutzer testen ein System, welches von einem Menschen gesteuert wird. Die Tester glauben aber, dass das System autonom funktioniert. Testet wie Nutzer reagierren, ohne aufwendig implementieren zu müssen</li></ol>"
+                    ],
+                    "guid": "M,&$R`NVYv",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "07-04:&nbsp;Welche 5 Protoypen gibt es, die man nicht in Kategorien einordnet?",
+                        "<ol><li>High Fidelity: nahe des finalen Systems, je nach Bereich nur Aussehen ohne Funktionalität oder mit hard-coded Funktionalität<br></li><li>Functional Prototype: Implementiert Teile der Funktionalität, aber z.B. mit Beispieldaten\noder demonstriert technische Funktion ohne Designaspekt<br></li><li>Horizontal: Funktionalität nicht implementiert, also nur verschiedenen Features, Navigation,\nInterface Konzept<br></li><li>Vertikal: Nur bestimmte Features, deren Funktionalität implementiert ist, um deren\noptimales Design zu finden<br></li><li>Experience Prototypen: Sehr schnell gemachte Prototypen, die dabei helfen sollen die grobe RIchtung von Design oder Funktionalität zu verstehen<br></li></ol>"
+                    ],
+                    "guid": "B,nUr3.RAw",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "07-05:&nbsp;Welche beiden Prototypkategorien unterscheiden wir?",
+                        "<ol><li>User/Use Case orientiert<br></li><li>Interface/system design orientiert<br></li></ol>"
+                    ],
+                    "guid": "I,a4LY@Vau",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "8edd2792-05d3-11ed-a93b-7085c2d6ea70",
+            "deck_config_uuid": "8edd2793-05d3-11ed-82c2-7085c2d6ea70",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "08-Evaluation",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "08-01:&nbsp;Warum evaluieren wir unser Produkt?",
+                        "Um es gegen die Requirements zu testen und um zu testen, ob die Nutzer das Produkt mögen"
+                    ],
+                    "guid": "kYtozEQT)y",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "08-02: Welche zwei Zeitpunkte gibt es zum evaluieren?",
+                        "Formativ: im iterativen Designprozess, z.B. um Verbesserungen am Prototyp zu machen<br><br>Summativ: am Ende, um das finale Produkt auszuwerten, z.B. für Magazin"
+                    ],
+                    "guid": "P2bA-ZI*s?",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "08-03: Welche beiden grundsätzlichen Evaluierungsmethoden unterscheiden wir?",
+                        "<ol><li>Empirische Methoden - Mit Nutzer</li><li>Analytische Methoden - Ohne Nutzer</li></ol>"
+                    ],
+                    "guid": "O8ee01}DeH",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "08-04: Welche beiden Settings unterscheiden wir in der empirischen Evaluierung?",
+                        "<ol><li>Kontrolliertes Setting</li><li>Natürliches Setting</li></ol>"
+                    ],
+                    "guid": "h_no}gt(hv",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "08-05: Welche beiden Methoden zur empirischen Evaluierung in einem kontrollierten Setting haben wir kennen gelernt?",
+                        "<ol><li>Usability Studie/Testing</li><li>Living Lab</li></ol>"
+                    ],
+                    "guid": "jOka}~G*!Z",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "08-06: Wie läuft eine Usability Studie ab?",
+                        "<ol><li>Versuchsaufbau und Aufgaben festlegen<br></li><li>Einwilligung des Nutzers einholen<br></li><li>Nutzer zu System und Aufgaben instruieren<br></li><li>Nutzer bei Lösen der Aufgaben beobachten und Versuch per Video/Audio/Screen\nLogging/Eye Tracking/Event Statistic festhalten<br></li><li>think-aloud Technik<br></li><li>Nutzer nach Feedback und Vorschlägen fragen, ggf. Post-Task Walktrough, bei\ndem Nutzer eigenes Verhalten erklärt<br></li><li>Daten analysieren --&gt; Missverständnisse, Fehlerquellen, schwierige Stellen und\nUrsachen für das Verhalten des Nutzers herausfinden<br></li><li>Anhand dessen das Design überdenken, verfeinern und anpassen<br></li></ol>"
+                    ],
+                    "guid": "yfVeph!DVg",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "08-07: Welche 5 Versuchsaufnahmemöglichkeiten gibt es bei einer empirischen Evaluation?",
+                        "<ol><li>Video</li><li>Audio<br></li><li>Screen\nLogging<br></li><li>Eye Tracking<br></li><li>Event Statistic<br></li></ol>"
+                    ],
+                    "guid": "l7p=aUKoF8",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "08-08: Was sind Vorteile eines Usability Tests und was wird dieser wohl nicht aufdecken?",
+                        "Kann:&nbsp;Konzepte der Nutzer aufdecken, Reaktionen und unerwartetes Nutzerverhalten aufzeigen<br><br>Kann nicht: Grundlegende Probleme lösen, oder solche, die erst bei tiefgehender\nNutzung auftreten, Kausalitäten aufzeigen"
+                    ],
+                    "guid": "f#hCPpWl8u",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "08-09: Was ist ein Living Lab und wofür nutzt man es?",
+                        "Simuliert natürliche Umgebung mit voll funktionalen Prototypen.<br><br>Wird verwendet um\nNutzung von Technologie im Alltag zu evaluieren."
+                    ],
+                    "guid": "z9)1{~Dc,<",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "08-10: Welche beiden natürlichen Settings gibt es bei einer empirischen Evaluation?",
+                        "<ol><li>Incident Diary<br></li><li>Feldstudie<br></li></ol>"
+                    ],
+                    "guid": "P%/qJB7oY?",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "08-11: Was ist ein Incident Diary?",
+                        "Nutzer zeichnet Bericht zu Interaktionen auf"
+                    ],
+                    "guid": "FW0/KZ]&Z)",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "08-12: Was macht man bei einer Feldstudie und welche Ziele hat man dabei?",
+                        "Testobjekt wird in der natürlichen Umgebung beobachtet.<br><br>Ziele:<br><ul><li>Requirements finden, wo könnte neue Technologie gebraucht werden?<br></li><li>Wie wird Technologie genutzt?<br></li><li>Wie kann neue Technologie eingeführt werdn?<br></li></ul>"
+                    ],
+                    "guid": "OUWWNR$rY_",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "08-13: Welche beiden analytischen Evaluierungsmethoden haben wir besprochen und was macht sie aus?",
+                        "<ol><li>Predictive Evaluation: Heuristic Evaluation/Inspection/Expert Review</li><ul><li>Design wird von\nExperten untersucht, um Probleme bei Usability zu finden, basierend auf Usability Kriterien/Heuristiken, z.B. mit Walktrough<br></li></ul><li>Experience Prototyping: Designer nimmt Rolle des Nutzers ein<br></li></ol>"
+                    ],
+                    "guid": "m26J7e2rD#",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "08-14: Welche Schritte beihnaltet der DECIDE - Ansatz?",
+                        "<b>D</b>etermine Goals<br><b>E</b>xplore questions<br><b>C</b>hoose evaluation methods<br><b>I</b>dentify practical issues (Nutzer wählen, Equipment, Budget, Zeitplan)<br><b>D</b>ecide how to deal with ethical issues (Informed Consent Form)<br><b>E</b>valuate, analyse, interprete, present data"
+                    ],
+                    "guid": "QgAMxJ}+xA",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "8edd75c1-05d3-11ed-ae6a-7085c2d6ea70",
+            "deck_config_uuid": "8edd9cbe-05d3-11ed-a0be-7085c2d6ea70",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "09-Interface Types",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "09-01: Welche Interface Typen gibt es?",
+                        "<ol><li>Command-based</li><li>WIMP und GUI<br></li><li>Multimedia<br></li><li>VR<br></li><li>Visualisierung von Information / Dashboards<br></li><li>Web<br></li><li>Gebrauchsgegenstände<br></li><li>Mobile<br></li><li>Sprachinterface<br></li><li>Stift<br></li><li>Touch<br></li><li>Gesten<br></li><li>Haptisch(z.B. Vibration, taktiles Feedback) und Anfassbar (physische Objekte, verbunden\nmit digitaler Repräsentation)<br></li><li>Augmented Reality / Mixed Reality<br></li><li>Wearable<br></li><li>Multimodal - Kombination von input/output Modalitäten, z.B. Sprache und Gesten<br></li><li>Teilbar - Multinutzer Interface, Touch/Tangible<br></li><li>Roboter, Brain Computer Interface<br></li></ol>"
+                    ],
+                    "guid": "r=e]IBfPB",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "09-02:&nbsp;Was sind Vor- und Nachteile eines Caommand-based Interfaces?",
+                        "Pro: effizient, präzise, schnell, alternative für Nutzer mit Sehbehinderung<br><br>Con: schwierig erlernbar; Syntax, Namensgebung und Konsistenz problematisch"
+                    ],
+                    "guid": "J:-&{ixD<X",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "09-03:&nbsp;Was sind vor und Nachteile von WIMP bzw. GUI Interfaces?",
+                        "Pro:&nbsp;Einfach\nzu erlernen, Hoher Wiedererkennungswert<br><br>Con: Menüs können unübersichtlich und nervig werden wenn sie zu groß sind"
+                    ],
+                    "guid": "EzdW%GUt:Y",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "09-04:&nbsp;Wofür steht WIMP?",
+                        "Windows, Icons, Menus, Pointer"
+                    ],
+                    "guid": "E4_&-(hbFW",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "09-05:&nbsp;Wofür steht GUI?",
+                        "graphical user interface"
+                    ],
+                    "guid": "Nf*6}^US*q",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "09-06:&nbsp;Was zeichnet ein Multimedia Interface aus?",
+                        "Verbindet verschiedene Medien miteinander, so findet man in einem Gerät Digitale Sammlungen, Trainigssoftware, sowie Unterhaltung"
+                    ],
+                    "guid": "Ll)GcJPjoi",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "09-07:&nbsp;Was versteht man unter dem Interface \"Gebrauchsgegenstände\"?",
+                        "Consumer Electronics: Remote controlls, DVD player, printers... etc."
+                    ],
+                    "guid": "ydJayddlky",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "8eddc3d4-05d3-11ed-bafa-7085c2d6ea70",
+            "deck_config_uuid": "8eddc3d5-05d3-11ed-bd20-7085c2d6ea70",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "paste-4534aec7e539d12f3d3074a780507e3bfe48f17d.jpg",
+                "paste-7b481fb7da0cfe2b5a40b2c7a18613080a5e6427.jpg",
+                "paste-8e6a8e620a89285dd8bad92fd5795e0ea0d8debb.jpg",
+                "paste-b470355d69c537135f2691a6f1da06f46093924d.jpg"
+            ],
+            "name": "11-Modeling User Interaction",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "11-01:&nbsp;Werlche zwei Modelarten unterscheidet man beim Modelieren einer User Interaction?",
+                        "<ol><li>Descriptive Models</li><li>Predictive Models</li></ol>"
+                    ],
+                    "guid": "Qw%[baM|N^",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "11-02: Was zeichnet Deskriptive Modelle im Kontext der User Interaction Modelierung aus?",
+                        "<ul><li>Grundlage für Verstehen, Reflektieren und Argumentieren über Fakten und Interaktionen<br></li><li>konzeptioneller Rahmen, der System vereinfacht<br></li><li>zur untersuchung einer Idee/System und dessen wahrscheinlicher Eigenschaften<br></li><li>• kann Designmängel aufzeigen<br></li><li>Beispiele: Beschreibungen, Statistiken, Performance-Messungen, GOMS, HTA<br></li></ul>"
+                    ],
+                    "guid": "CL6ic;E5a+",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "11-03: Was zeichnet Predictive Models im Kontext der User Interaction Modelierung aus?",
+                        "<ul><li>fundierte Annahme über die Zukunft, basierend auf einem empirisch hergeleiteten Interaktionsmodell<br></li><li>Vereinfacht komplexe Situationen/ Aktionen, wie menschliche Interaktion<br></li><li>Beispiele: Fitt’s Law, Steering Law, (Three-State Model, Guiard’s Model of Bimanual\nSkill,) Keystroke Level Model<br></li></ul>"
+                    ],
+                    "guid": "Q_glbG>c*e",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "11-04: Was sind grundlegende Probleme von Predictive Models im Kontext der User Interaction Modelierung?",
+                        "<ul><li>Ausgelegt für begrenzte, routinierte kognitive Aufgaben<br></li><li>neue Interaktionsarten/besondere Nutzergruppen müssen empirisch gemessen und\nadaptiert werden<br></li><li>Fehler werden nicht einbezogen, Expertenwissen wird vorausgesetzt<br></li></ul>"
+                    ],
+                    "guid": "lGM;/92c#h",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "11-05: Wie funktioniert das deskriptive \"Hierarchical Task Analysis\" Model?",
+                        "<ul><li>Aufteilung von Aufgaben in ihre Unteraufgaben, welche als Pläne gruppiert werden<br></li><li>Fokus auf physischen und sichtbarem Verhalten<br></li><li>Ausgehend vom Ziel des Nutzers: Welche Hauptaufgaben müssen zu dessen erreichen\nbewältigt werden?<br></li></ul><div><br></div><div><ul><li>Problem: überlappende Aufgaben und Unterbrechungen, Personalisierung und Kontext\nschwierig zu modellieren, schnell zu umfangreich#</li></ul><div><img src=\"paste-7b481fb7da0cfe2b5a40b2c7a18613080a5e6427.jpg\"><br></div></div>"
+                    ],
+                    "guid": "y$9b0=cvMR",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "11-06: Wie funktioniert das pedictive Model \"Fitt's Law\"?",
+                        "<ul><li>Modelliert psychomotorisches Verhalten (Zusammenspiel von Psyche und Bewegung)<br></li><li>Sagt Bewegungszeit für schnelle, zielgerichtete Bewegungen voraus, z.B. klicken auf einen\nButton<br></li><li>Kernprinzip: Die Zeit, um ein Ziel zu erreichen ist eine Funktion über die Distanz zum\nZiel, dessen Größe und ist abhängig vom Zeigesystem (pointing system, z.B. Maus)</li></ul>"
+                    ],
+                    "guid": "nAwmFp6rH*",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "11-07: Was bedeuten die Ergebnisse von \"Fitt's Law\" für HCI?",
+                        "<ul><li>größere Buttons<br></li><li>Nutzung von Rändern und Ecken des Bildschirms<br></li><li>Nutzung der aktuellen/durchschnittlichen Zeigerposition z.B. zum Platzieren von\nPop-Up Menüs<br></li><li>Runde Menüs?<br></li></ul>"
+                    ],
+                    "guid": "QypAf)-mo|",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "11-08: Wie funktioniert das predictive Model \"Steering Law\"?",
+                        "<ul><li>Modelliert Bewegungszeit eines Zeigers durch einen 2D Tunnel<br></li><li>Funktion über Länge und Breite des Tunnels, mit linearem Index of Difficulty: Steering\nschwieriger als Pointing</li></ul>"
+                    ],
+                    "guid": "IEV_[pq0z0",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "11-09: Wie funktioniert das deskriptive \"Three state model\"?",
+                        "Describes graphical input\nSimple, quick, expressive<br><br><img src=\"paste-b470355d69c537135f2691a6f1da06f46093924d.jpg\">"
+                    ],
+                    "guid": "t&/.=@pqmx",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "11-10: Womit beschäftigt sich \"Guiard’s Model of Bimanual Skill\"?",
+                        "<ul><li>Beschreibt die Rolle der starken/schwachen Hand bei Handlungen<br></li><li>Preferierte Hand: Folgt nicht-preferierter Hand; arbeitet innerhalb eines von der nicht-preferierten Hand vorgegebenen Rahmens; führt feine/filigrane Bewegungen aus<br></li><li>Nicht-preferierte Hand: leitet preferierte Hand; setzt Rahmen für preferierte Hand; führt grobe Bewegungen aus</li></ul>"
+                    ],
+                    "guid": "ej@wvXhWDt",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "11-11: Wie funktioniert das dekriptive \"GOMS\"-Model und wofür steht die Abkürzung?",
+                        "<ul><li><b>G</b>oals - Beschreibung der Nutzerziele<br></li><li><b>O</b>perators - Basishandlungen im System (z.B. keystroke)<br></li><li><b>M</b>ethods - Operatorsequenz um Ziel zu erreichen<br></li><li><b>S</b>election rules - Regeln, die festlegen, wann eine Nutzer welche Methode verwendet<br></li></ul><div>Die Ziele werden wiederum in sub-Ziele zerlegt, und nach divide-and-conquer Verfahren wird\ndas Ziel erreicht.<br></div><div><br></div><div><img src=\"paste-4534aec7e539d12f3d3074a780507e3bfe48f17d.jpg\"><br></div>"
+                    ],
+                    "guid": "r0f,d(;``8",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "11-12: Wie funktioniert das predictive \"Keystroke Level Model\"?",
+                        "<ul><li>Vereinfacht GOMS: betrachtet nur Operatoren auf keystroke-level<br></li><li>Sagt benötigte Zeit voraus, um Aufgabe auszuführen, und teilt Operatoren dazu in drei\nKategorien auf: Motorisch, Mental, auf Systemantwort warten<br></li></ul><div><img src=\"paste-8e6a8e620a89285dd8bad92fd5795e0ea0d8debb.jpg\"><br></div>"
+                    ],
+                    "guid": "t)>Ps8M6l@",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "8ede11f3-05d3-11ed-82c4-7085c2d6ea70",
+            "deck_config_uuid": "8ede11f4-05d3-11ed-8c92-7085c2d6ea70",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "12-Experimental Design",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "12-01: Was ist ein Experiment?",
+                        "Ein Experiment ist eine kontrollierte Auswertung bestimmter Aspekte interaktiven Verhaltens. Eine Hypothese wird überprüft, nur bestimmte Variablen werden verändert, sodass aus\nVeränderungen Rückschlüsse auf Ursache und Wirkung gezogen werden können."
+                    ],
+                    "guid": "sDfd|g@1B6",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "12-02:&nbsp;Woraus besteht ein Experiment?",
+                        "<ol><li>Subjekte/Teilnehmer<br></li><li>Variablen<br></li><li>Hypothese<br></li><li>Versuchsanordnung</li></ol>"
+                    ],
+                    "guid": "p{4W-n-#5n",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "12-03:&nbsp;Worauf muss man bei der Teilnehmerauswahl bei einem Experiment achten?",
+                        "<ul><li>sampling: Wahl der Teilnehmer sollte Bevölkerung in etwa abbilden<br></li><li>Alter, Geschlecht, Hintergrund, etc angeben<br></li><li>genügend Teilnehmer notwendig<br></li></ul>"
+                    ],
+                    "guid": "k<tSz)+ZFs",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "12-04:&nbsp;Welche beiden Arten von Variablen gibt es bei einem Experiment und was macht diese aus?",
+                        "unabhängig: manipulierter Aspekt(Ursache), z.B. Interface Layout<br>Die unabhängige Variable definiert bestimmte Bedingungen, z.B. Layout A und Layout B, oder Kontrollgruppe und Experimentalgruppe<br><br>abhängig: gemessener Aspekt(Wirkung), z.B. Zeit zur Bewältigung einer Aufgabe"
+                    ],
+                    "guid": "Nh|t.[dyQ/",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "12-05:&nbsp;Was ist eine Hypothese?",
+                        "Voraussage eines Ergebnis, die entweder bestätigt oder wiederlegt wird<br><br>Nullhypothese: keine Veränderung vorausgesagt"
+                    ],
+                    "guid": "mh3FLdm7F",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "12-06:&nbsp;Was sind zwei grundlegende Arten und Weisen, wie man ein Experiment durchführen kann und was zeichnet diese aus?",
+                        "Repeated measures design: Alle Teilnehmer führen Experiment in allen Bedingungen\naus<br>Pro: geringere Kosten, weniger Nutzervariation<br>Con: Ermüdend, muss systematisch randomisiert werden, Lerneffekt möglich<br><br>Independent measures design: Teilnehmer ist einer Bedingung zugeteilt<br>Con: Mehr Zeit und Teilnehmer notwendig, user variation"
+                    ],
+                    "guid": "ryDhH.-dA&",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "12-07:&nbsp;Was ist ein Pre-Test in einem Experiment und was sind Vor- bzw. Nachteile davon?",
+                        "Pre-Test kann zusätzlich durchgeführt werden, um Grundlage für Wertung der Ergebnisse zu legen;<br>kann aber performance im Test beeinflussen"
+                    ],
+                    "guid": "yPpE2fT-3I",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "12-08:&nbsp;Wofür benötigt man Counterbalancing?",
+                        "Lerneffekt der Teilnehmenden macht systematische Randomisierung notwendig"
+                    ],
+                    "guid": "h40`L`<r>n",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "12-09:&nbsp;Wie läuft ein Experiment ab?",
+                        "<ol><li>Hypothese festlegen<br></li><li>Versuchsanordnung festlegen<br></li><li>Pilotstudie durchführen<br></li><li>Teilnehmer anwerben<br></li><li>Jeden Teilnehmer betreuen</li><li>Daten auswerten<br></li><li>Hypothese annehmen oder verwerfen<br></li></ol>"
+                    ],
+                    "guid": "Q)k[#gvo+N",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "12-10:&nbsp;Wie läuft die Interaktion mit jedem einzelnen Teilnehmer in einem Experiment ab?",
+                        "<ol><li>Informieren<br></li><li>Consent Form<br></li><li>Demografische Daten sammeln<br></li><li>Anweisungen zu Aufgabe geben<br></li><li>Variablen bei Durchführung messen<br></li><li>Fragen beantworten und Feedback geben<br></li></ol>"
+                    ],
+                    "guid": "xlxpw#XpN!",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "12-11:&nbsp;Welche Anforderungen sollten die Ergebnisse eines Experiments erfüllen?",
+                        "<ol><li>Valide (akkurat und repräsentativ)<br></li><li>Zuverlässig (konsistent, präzise Definition des gemessenen Wertes)<br></li><li>Generalisierbar (übertragbar)</li><li>Relevant</li></ol>"
+                    ],
+                    "guid": "kxtY+Qa{`i",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": [
+                        "re"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "12-12:&nbsp;Was gehört in den Informed Consent?",
+                        "<ol><li>Experiment, was erwartet den Nutzer<br></li><li>Risiken<br></li><li>Welche Daten gesammelt werden und wie damit umgegangen wird<br></li><li>Rechte, besonders, das Experiment abzubrechen<br></li><li>Nachbesprechung<br></li></ol>"
+                    ],
+                    "guid": "B22>Kll/g!",
+                    "note_model_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+                    "tags": [
+                        "re"
+                    ]
+                }
+            ]
+        }
+    ],
+    "crowdanki_uuid": "8eda8f5b-05d3-11ed-bd58-7085c2d6ea70",
+    "deck_config_uuid": "8edab66f-05d3-11ed-94b3-7085c2d6ea70",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "8edab66f-05d3-11ed-94b3-7085c2d6ea70",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "8edadd84-05d3-11ed-8ec3-7085c2d6ea70",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "8edb2bac-05d3-11ed-8aca-7085c2d6ea70",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "8edbc7eb-05d3-11ed-aeff-7085c2d6ea70",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "8edbef07-05d3-11ed-a5d0-7085c2d6ea70",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "8edc8b40-05d3-11ed-8bfc-7085c2d6ea70",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "8edcb25c-05d3-11ed-b070-7085c2d6ea70",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "8edd0078-05d3-11ed-90ca-7085c2d6ea70",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "8edd2793-05d3-11ed-82c2-7085c2d6ea70",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "8edd9cbe-05d3-11ed-a0be-7085c2d6ea70",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "8eddc3d5-05d3-11ed-bd20-7085c2d6ea70",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "8ede11f4-05d3-11ed-8c92-7085c2d6ea70",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "HCI",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "8edadd87-05d3-11ed-9bb9-7085c2d6ea70",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Vorderseite",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Rückseite",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Einfach-3a484",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Rückseite}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Karte 1",
+                    "ord": 0,
+                    "qfmt": "{{Vorderseite}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": []
+}
